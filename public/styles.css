@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    color: white;
+    font-family:'Gabriela', serif;
+    
+}
+body{
+    background-color: black;
+    overflow: hidden;
+    overflow-y: scroll;
+}
